@@ -1,1 +1,0 @@
-{ "userMessage": "hi", "model": "botframework", "modelReply": "This is a mock Bot Framework response." }
